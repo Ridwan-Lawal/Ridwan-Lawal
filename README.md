@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ridwan-Lawal&label=Profile%20views&color=0e75b6&style=flat" alt="Ridwan-Lawal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Ridwan-Lawal" alt="Ridwan-Lawal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ridwan-Lawal alt="Ridwan-Lawal" /></a> </p>
 
 
 - 🔭 I’m currently working on: [World - Ranking](https://world-ranking-one.vercel.app/)
