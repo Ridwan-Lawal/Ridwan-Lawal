@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello there 👋, I'm Ridwan</h1>
-<h3 align="center">Frontend Dev | Probelm Solver | Computer Science | Tech</h3>
+<h3 align="center">Frontend Dev | Problem Solver | Computer Science | Tech</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ridwan-Lawal&label=Profile%20views&color=0e75b6&style=flat" alt="Ridwan-Lawal" /> </p>
