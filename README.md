@@ -46,7 +46,7 @@ conditional payment fields. Built from the Frontend Mentor design brief.
 **Kanban** · Kanban board · Next.js, TypeScript, Tailwind, Neon DB, Drizzle ORM.
 
 Drag-and-drop task management with column reordering and optimistic updates.
-[One line on the hardest part you solved.]
+
 
 [Live](https://kanban-lilac-ten.vercel.app/) · [Repo](https://github.com/Ridwan-Lawal/Kanban)
 
