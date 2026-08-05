@@ -26,6 +26,15 @@ data layer. Catalog and browsing are working, checkout is next.
 
 [Repo](https://github.com/Ridwan-Lawal/Ofudo-food-delivery-app)
 
+**DSI Football** · Sports media platform · Next.js, TypeScript, Supabase, NextAuth
+
+Editorial admin dashboard used by the writing team to publish across 16+ football
+competitions. Built the full article workflow with draft, edit, and delete, plus
+per-writer analytics. Implemented role-based access control so writers manage only
+their own articles while admins get team-wide access.
+
+[Live](https://dsifootball.live/)
+
 **audiophile** · E-commerce storefront · Next.js, Tailwind
 
 A multipage e-commerce storefront for a fictional audio equipment brand.
