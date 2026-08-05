@@ -54,10 +54,10 @@ Drag-and-drop task management with column reordering and optimistic updates.
 
 ### Stack
 
-**Languages** TypeScript, JavaScript, SQL
-**Frontend** React, Next.js, React Native (Expo), Tailwind CSS
-**Backend** Node.js, Supabase, PostgreSQL, REST APIs
-**Tools** Git, Expo EAS, Vercel, n8n
+**Languages** TypeScript, JavaScript, SQL.
+**Frontend** React, Next.js, React Native (Expo), Tailwind CSS.
+**Backend** Node.js, Supabase, PostgreSQL, REST APIs.
+**Tools** Git, Expo EAS, Vercel, n8n.
 
 ---
 
